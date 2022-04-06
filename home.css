@@ -30,6 +30,7 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: space-between;
+  background-color: rgb(246, 80, 255);
 }
 .home-logo {
   display: flex;
@@ -206,6 +207,7 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-fiveunits);
   justify-content: space-between;
+  
 }
 .home-hero-text-container {
   width: 35%;
@@ -589,6 +591,7 @@
   padding-right: var(--dl-space-space-tripleunit);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
+  
 }
 .home-text20 {
   margin-bottom: var(--dl-space-space-fiveunits);
@@ -601,6 +604,7 @@
   align-items: flex-start;
   flex-direction: row;
   justify-content: space-between;
+  
 }
 .home-testimonial-card {
   width: 30%;
@@ -615,6 +619,7 @@
   padding-right: var(--dl-space-space-doubleunit);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-doubleunit);
+  box-shadow: 0 0 10px black;
 }
 .home-card-heading {
   width: 100%;
@@ -694,6 +699,7 @@
   padding-right: var(--dl-space-space-doubleunit);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-doubleunit);
+  box-shadow: 0 0 10px black;
 }
 .home-card-heading1 {
   width: 100%;
