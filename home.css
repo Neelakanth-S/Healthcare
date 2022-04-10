@@ -30,7 +30,7 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-doubleunit);
   justify-content: space-between;
-  background-color: rgb(246, 80, 255);
+  background-color: rgb(89, 255, 80);
 }
 .home-logo {
   display: flex;
